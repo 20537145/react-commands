@@ -1,0 +1,9 @@
+const store = createStore(
+   counterReducer,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+ );
+ npm i lorem-ipsum
+ npm install react-bootstrap bootstrap
+ npm i react-redux redux
+ npm i react-router-dom
+ npm i react-router-dom@6.4.2
+ npx create-react-app mariemtktk
